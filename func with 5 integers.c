@@ -1,3 +1,5 @@
+
+// 5 integers with sum,average and standard deviation
 #include<stdio.h>
 #include<math.h>
 #define sq(x)(x*x)
